@@ -13,5 +13,5 @@ python3 xsszero.py
 
 # WHOAMI
 ```
-NO ONE ENJOT
+NO ONE ENJOY
 ```
